@@ -51,3 +51,6 @@ Este arquivo é mais para que eles não possam modificar o arquivo no nível do 
 2. Em segundo lugar, devemos colocar os arquivos como se fosse o cliente, por exemplo, copiamos o Item_por.bmd do nosso cliente desta forma **/Checksum/Data/Local/Spn/Item_por.bmd**.
 3. Em terceiro lugar, clicamos em **/GetHackList.exe**.
 4. Finalmente, copiamos **o conteúdo**, não o arquivo, que é gerado no Checksum.List.db, e editamos o arquivo do nosso servidor em **MuServer/MHPServer/Data/Checksum.List.db** .
+
+#Credits:
+Dump.List.db base by Exhurtum
